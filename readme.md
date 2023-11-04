@@ -6,3 +6,8 @@ Este é um repositório para entender como o git funciona.
 
 editando para teste. Testando commint
 
+
+
+
+Adorei o curso. Muito esclarecedor!!
+
